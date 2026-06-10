@@ -1,0 +1,6 @@
+# ソース一式は公開リポジトリに含めない（公開されるのは暗号化済み index.html のみ）
+src/
+dist/
+dist-enc/
+build.sh
+.DS_Store
