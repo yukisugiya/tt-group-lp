@@ -3,4 +3,6 @@ src/
 dist/
 dist-enc/
 build.sh
+HANDOFF.md
+handoff-assets/
 .DS_Store
