@@ -5,4 +5,5 @@ dist-enc/
 build.sh
 HANDOFF.md
 handoff-assets/
+template/
 .DS_Store
